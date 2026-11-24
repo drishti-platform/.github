@@ -4,7 +4,9 @@
 
 **Live, explainable analytics on the data you already have.** Drishti connects to data where it lives, keeps it in one lake,
 aggregates it on demand for any scope and explains every figure: where it came from, how it was calculated and why it moved. Screens
-are described, not coded, in one grammar. Everything specific to a field (banking risk, capital markets, economics, genomics) comes as
+are described, not coded: Rachana's Sutras painted by Elements' grid, pivot, charts and maps give BI-style dashboards and safe GenUI
+(an AI writes a Sutra through MCP tools; nothing generated runs). Rachana, Elements, Lake and Tools also work on their own in your
+applications, for example Rachana and Elements in a Flask or FastAPI app. Everything specific to a field (banking risk, capital markets, economics, genomics) comes as
 a module.
 
 ### Get it
