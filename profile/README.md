@@ -2,10 +2,10 @@
 
 <h3 align="center">Any data. Any domain. One grammar.</h3>
 
-**Live, explainable analytics on the data you already have, in any domain.** Drishti reads data where it lives, aggregates it on
-demand for any scope and explains every figure: where it came from, how it was calculated and why it moved. Each domain comes as a
-module: banking risk (VaR, ES, exposure, the pre-deal check) is the first and deepest; capital markets, economic and public-sector
-data, and genomics sit beside it.
+**Live, explainable analytics on the data you already have.** Drishti connects to data where it lives, keeps it in one lake,
+aggregates it on demand for any scope and explains every figure: where it came from, how it was calculated and why it moved. Screens
+are described, not coded, in one grammar. Everything specific to a field (banking risk, capital markets, economics, genomics) comes as
+a module.
 
 ### Get it
 
