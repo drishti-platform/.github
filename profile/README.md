@@ -2,10 +2,10 @@
 
 <h3 align="center">Any data. Any domain. One grammar.</h3>
 
-**The real-time risk and analytics layer that sits next to a bank's trading systems.** Drishti loads trade-grain data from the systems a
-bank already runs, aggregates it on demand for any scope — from the whole bank to an ad-hoc set of trades — and explains every figure:
-where it came from, how it was calculated and why it moved. It never prices: it shows what its sources supply and says exactly what is
-missing.
+**Live, explainable analytics on the data you already have, in any domain.** Drishti reads data where it lives, aggregates it on
+demand for any scope and explains every figure: where it came from, how it was calculated and why it moved. Each domain comes as a
+module: banking risk (VaR, ES, exposure, the pre-deal check) is the first and deepest; capital markets, economic and public-sector
+data, and genomics sit beside it.
 
 ### Get it
 
