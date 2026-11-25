@@ -14,7 +14,7 @@ a module.
 - **New on Windows?** `START_HERE_WINDOWS.pdf` at the top of the source zip: seven plain steps.
 - **Everything in one download:** [Releases of the index repository](https://github.com/drishti-platform/drishti-platform/releases) →
   `drishti-platform-<release>-source.zip` (every product at its release tag, `build_all.py`, checksums) and `pom.xml`.
-- **With git:** `python clone_all.py --release i7k --parent <folder>` from [drishti-platform](https://github.com/drishti-platform/drishti-platform).
+- **With git:** `python clone_all.py --release i7l --parent <folder>` from [drishti-platform](https://github.com/drishti-platform/drishti-platform).
 - **Build everything in order:** `mvn` in the parent folder (the platform `pom.xml`), or `python build_all.py`. JDK 21 and Python 3.10+.
 
 ### The products
@@ -33,7 +33,7 @@ a module.
 
 | Platform | Tools | Rachana | Lake | Elements | Drishti |
 |---|---|---|---|---|---|
-| **i7k** | 1.1.0 | 1.0.1 | 0.9.1 | 3.3.2 | `v2.9.11.i_7k` |
+| **i7l** | 1.1.0 | 1.0.1 | 0.9.1 | 3.3.2 | `v2.9.11.i_7l` |
 
 Separately: **Drishti Rachana 1.1.0** — the [GenUI kit](https://github.com/drishti-platform/drishti-rachana/releases/tag/v1.1.0) for AI agents.
 
